@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Мотоцикли</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Світ мотоциклів</h1>
+    <nav>
+        <a href="index.html">Головна</a>
+        <a href="about.html">Про нас</a>
+        <a href="contact.html">Контакти</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Найкращі мотоцикли світу</h2>
+</section>
+
+<section class="bikes">
+    <div class="card">
+        <img src="images/moto1.jpg" alt="">
+        <h3>Sport Bike</h3>
+    </div>
+
+    <div class="card">
+        <img src="images/moto2.jpg" alt="">
+        <h3>Chopper</h3>
+    </div>
+</section>
+
+<script src="js/script.js"></script>
+</body>
+</html>
